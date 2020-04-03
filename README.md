@@ -43,8 +43,4 @@ It contains all the helpline numbers of government of INDIA.
 ## SIDEMENU
 It contains privacy and policy option, About the App option and Contact Option and myths about corona in myth busters.
 
-# Advancements
 
-By adding a new feature that can alert the police if a person is 200 metres away from his/her house
-so that police take a sudden action against the user . User will provide a reason button so that he/she could
-write the reason for why he/she is far from home.

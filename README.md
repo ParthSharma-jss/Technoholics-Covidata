@@ -1,4 +1,4 @@
-# COVIDATA - An app to help people
+# COVIDATA -> An app to help people
 ### App by -> Technoholics
 Globally, new virus was causing pneumonia-like illness and continues to wreak havoc as the figure of infected people crossed a million. 
 So here, An Android Application that can illustrate and analyze the situation at different places using maps and graphs. Common queries related to coronavirus or COVID-19 like symptoms, precautions, etc. are solved by the chatbot. Information regarding government policies and essential contacts are also provided.

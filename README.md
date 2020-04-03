@@ -20,7 +20,7 @@ Information link- @www.who.int
 It embedded a map (world/ country map) that visualise all the stats about COVID-19 across
 globe by marking a circle on countries.
 just click on circle and get the stats.
-Information link: @https://arcg.is/Ki4qG
+Information link: @https://arcg.is/Ki4qG and for INDIA @https://corona.health-check.in/index
 
 ### Chatbot:-
 It embedded a chatbot which is developed using dialogflow.It answers all the queries and information 
